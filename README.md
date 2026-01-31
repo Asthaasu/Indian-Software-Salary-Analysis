@@ -1,4 +1,4 @@
-<img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/8307a304-4b09-437f-b430-d5594a1b064e" /><img width="1470" height="956" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/58e99f50-e79d-49be-b605-86c687a181bd" /><img width="1470" height="956" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/c362b102-e3b5-403e-973d-288d239e7264" /># 💼 Indian Software Industry Salary Analysis
+<img width="1470" height="956" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/c362b102-e3b5-403e-973d-288d239e7264" /># 💼 Indian Software Industry Salary Analysis
 
 > **Comprehensive salary analysis of 22,700+ Indian software professionals with predictive modeling and interactive visualization**
 
