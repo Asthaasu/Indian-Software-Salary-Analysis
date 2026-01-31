@@ -1,4 +1,4 @@
-# 💼 Indian Software Industry Salary Analysis
+<img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/8307a304-4b09-437f-b430-d5594a1b064e" /><img width="1470" height="956" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/58e99f50-e79d-49be-b605-86c687a181bd" /><img width="1470" height="956" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/c362b102-e3b5-403e-973d-288d239e7264" /># 💼 Indian Software Industry Salary Analysis
 
 > **Comprehensive salary analysis of 22,700+ Indian software professionals with predictive modeling and interactive visualization**
 
@@ -69,9 +69,8 @@ This project analyzes salary trends in the Indian software industry to identify 
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](path-to-your-screenshot.png)
 
-**[🔗 View Interactive Dashboard on Tableau Public](YOUR-TABLEAU-LINK-HERE)**
+**[🔗 View Interactive Dashboard on Tableau Public]([YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/views/IndianSoftwareSalaryAnalysis-AsthaPankaj/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ### Dashboard Features:
 - 📍 Geographic salary heat map
